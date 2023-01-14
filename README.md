@@ -1,3 +1,4 @@
+es en el view/username/index.php
 asi esta el codigo, vas a modificar el data-bs-target es un identificador para cada modal, al ser un dato estatico siempre se estara eliminando el primero generado.
 
 ![1](https://user-images.githubusercontent.com/43689334/212488676-346bcdf9-1f4a-4905-bd9d-d15a3f2ccdd6.png)
